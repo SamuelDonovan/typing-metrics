@@ -1,0 +1,11 @@
+_id,isPb,wpm,acc,rawWpm,consistency,charStats,mode,mode2,quoteLength,restartCount,testDuration,afkDuration,incompleteTestSeconds,punctuation,numbers,language,funbox,difficulty,lazyMode,blindMode,bailedOut,tags,timestamp
+666f96b4ede857f97205dd7e,,55.17,91.25,60.37,60.89,138;3;0;1,time,30,-1,0,30.02,1,0,false,false,english,none,normal,false,false,false,,1718589108000
+666f9678ede857f97205dbd1,,61.17,94.44,61.17,62.18,153;0;0;0,time,30,-1,0,30.01,0,0,false,false,english,none,normal,false,false,false,,1718589048000
+666f9644ede857f97205da8c,true,65.58,97.06,65.98,63.47,164;1;0;0,time,30,-1,0,30.01,0,0,false,false,english,none,normal,false,false,false,,1718588996000
+666f9613ede857f97205d958,,46.37,90.84,46.37,54.45,116;0;0;0,time,30,-1,0,30.02,0,0,false,false,english,none,normal,false,false,false,,1718588947000
+666f95d9ede857f97205d7fb,,57.57,93.79,63.16,65.82,144;4;0;1,time,30,-1,0,30.02,0,0,false,false,english,none,normal,false,false,false,,1718588889000
+666f95a2ede857f97205d6c1,,57.98,90.96,64.78,65.8,145;7;1;0,time,30,-1,0,30.01,0,0,false,false,english,none,normal,false,false,false,,1718588834000
+666f9569ede857f97205d54e,,60.36,94.48,62.76,74.55,151;2;0;0,time,30,-1,0,30.02,0,0,false,false,english,none,normal,false,false,false,,1718588777000
+666f9535ede857f97205d402,,54.77,91.98,63.97,62.18,137;6;1;1,time,30,-1,0,30.01,0,0,false,false,english,none,normal,false,false,false,,1718588725000
+666f947fede857f97205cf65,,52.39,87.36,67.59,66.57,131;10;2;0,time,30,-1,0,30,0,0,false,false,english,none,normal,false,false,false,,1718588543000
+666f93deede857f97205cbb8,true,63.18,96.34,63.18,63.2,158;0;0;0,time,30,-1,0,30.01,0,0,false,false,english,none,normal,false,false,false,,1718588382000
